@@ -25,6 +25,11 @@ require('material-design-lite');
 
 export default {
   name: 'app',
+  methods: {
+    hideMenu() {
+
+    },
+  },
 };
 </script>
 
